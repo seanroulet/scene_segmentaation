@@ -1,2 +1,5 @@
 # Place to put the collab segmentation files
 # And to put the files to segment
+
+# images need to be placed in the github main, and a permalink must be created so that 
+# it can be included in the collab "run on sample image".
